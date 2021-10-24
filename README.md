@@ -12,6 +12,8 @@ $ docker-compose up -d
 
 ### Доступы от СУБД
 
+Хост подключения к бд из под php: **mariadbdb**
+
 MYSQL_DATABASE: **testdb**
 
 MYSQL_USER: **test_user**
